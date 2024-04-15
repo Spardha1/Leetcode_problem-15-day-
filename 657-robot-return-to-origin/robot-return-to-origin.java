@@ -16,13 +16,13 @@ class Solution {
             b--;
            }
         }
-        // if(a+b==0){
+        // if((a+b)==0){
         //     return true;
         // }
         // else{
         //     return false;
         // }
         
-        return (a==0 && b==0);
+     return (a==0 && b==0);
     }
 }
